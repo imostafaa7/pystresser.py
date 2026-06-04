@@ -1,17 +1,4 @@
-pystresser/
-├── README.md
-├── requirements.txt
-├── pystresser.py          # الملف الرئيسي
-├── modules/
-│   ├── __init__.py
-│   ├── http_flood.py      # هجوم HTTP
-│   ├── tcp_flood.py       # هجوم TCP
-│   ├── udp_flood.py       # هجوم UDP
-│   ├── slowloris.py       # هجوم Slowloris
-│   ├── proxy_rotator.py   # تدوير البروكسيات
-│   └── reporter.py        # تقارير
-├── proxies.txt            # ملف البروكسيات (اختياري)
-└── config.py              # الإعدادات
+             # الإعدادات
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue">
   <img src="https://img.shields.io/badge/License-MIT-green">
