@@ -55,8 +55,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/pystresser.git
-cd pystresser
+git clone https://github.com/imostafaa7/pystresser.py
+cd pystresser.py
 
 # 2. Create virtual environment (recommended)
 python -m venv venv
